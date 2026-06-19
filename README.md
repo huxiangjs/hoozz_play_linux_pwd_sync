@@ -1,2 +1,3 @@
-# hoozz_play_linux_device
-Hoozz Play Linux Device
+# Hoozz Play Linux MCP Configuration
+
+Provides the ability to sync devices configured on a mobile phone to the MCP server.
